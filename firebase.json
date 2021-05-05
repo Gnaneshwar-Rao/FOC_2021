@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "rc4scension",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
